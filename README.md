@@ -6,7 +6,7 @@
 ## Description:
 
 <p> ForeverPhoenix.gitbub.io is my personal website and portfolio. </p> <br>
-<p>  Wnat to know more? Check out my bio and projects page on my website.</p>
+<p>  Want to know more? Check out my bio and projects page on my website.</p>
 
 ## Installation:
 
@@ -14,7 +14,7 @@
 
 ## Usage:
 
-<p> Learning tool in one dimenonal movement. </p>
+<p> This webpage is for my personal use only, but please explore the project and connect with me. </p>
 
 ## Roadmap:
 
