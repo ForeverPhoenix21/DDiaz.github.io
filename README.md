@@ -10,7 +10,7 @@
 
 ## Installation:
 
-<p> Upload the HTML file to your browser and or code editor to edit the vaules and elements within the script. </p>   
+<p> Upload the HTML file to your browser or click the link above.  
 
 ## Usage:
 
@@ -23,9 +23,10 @@
 ***
 
 **Future updates:**
-- Update code to reflect the airbnb javascript style guide.
-- create ball movements using Switch().
-- Set window width edge detection.
+- Join HTML files into one dynamic landing page.
+- Link navbar to sections of the dyanamic landing page
+- Create a contact form.
+- Update the grid template area.
 
 ## Support:
 
