@@ -23,6 +23,7 @@
 ***
 
 **Future updates:**
+- Build out custom navbar and carousel  
 - Join HTML files into one dynamic landing page.
 - Link navbar to sections of the dyanamic landing page
 - Create a contact form.
