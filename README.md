@@ -1,7 +1,8 @@
 # ForeverPhoenix21.github.io
 
-
-<img src="ballMovement.png" width="200"/>
+<a href= "https://foreverphoenix21.github.io/">
+<img src= "./images/PacMan1.png" alt = "Pacman Pic" width= "200" />
+</a>
 
 ## Description:
 
