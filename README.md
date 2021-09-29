@@ -1,12 +1,12 @@
 # ForeverPhoenix21.github.io
 
-<p>This is my perosnal website and portfolio.</P>
+
 <img src="ballMovement.png" width="200"/>
 
 ## Description:
 
-<p> ForeverPhoenix.gitbub.io is my personal website and portfolio. </p> <br>
-<p>  Want to know more? Check out my bio and projects page on my website.</p>
+<p>  Want to know more? Check out my bio and projects page on my website.</p> </br>
+<p> ForeverPhoenix.gitbub.io is my personal website and portfolio. </p> 
 
 ## Installation:
 
