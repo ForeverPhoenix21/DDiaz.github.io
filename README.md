@@ -14,11 +14,11 @@
 
 ## Usage:
 
-<p> This webpage is for my personal use only, but please explore the project and connect with me. </p>
+<p> This webpage is for my profesional and personal use. Explore my projects page and connect with me. </p>
 
 ## Roadmap:
 
-*This exercise will continually be built and improved on as I learn additional skills in Javascript.*
+*This exercise will continually be built and improved on as I learn additional skills in programing.*
 
 ***
 
