@@ -1,7 +1,7 @@
 # ForeverPhoenix21.github.io
 
 <a href= "https://foreverphoenix21.github.io/">
-<img src= "./images/PacMan1.png" alt = "Pacman Pic" width= "200" />
+<img src= "./images/PacMan1.png" alt = "Dereks Website link" width= "200" />
 </a>
 
 ## Description:
